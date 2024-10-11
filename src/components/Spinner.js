@@ -4,8 +4,8 @@ import Loading from './Laoding.gif.gif'
 export default class Spinner extends Component {
   render() {
     return (
-      <div>
-        <img src={Loading} alt='Loading'/>
+      <div className='text-center'>
+        <img className='my-3' src={Loading} alt='Loading'/>
       </div>
     )
   }
