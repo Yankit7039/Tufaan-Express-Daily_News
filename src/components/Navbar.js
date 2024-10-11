@@ -11,7 +11,7 @@ const NavBar = () => {
       <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark shadow-sm">
         <div className="container-fluid">
           <Link className="navbar-brand fw-bold" to="/">
-            NewsMonkey
+            Tufaan-Express
           </Link>
           <button
             className="navbar-toggler"
